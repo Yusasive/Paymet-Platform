@@ -30,7 +30,7 @@ const App = () => {
       );
       resetForm();
     },
-    onClose: () => alert("Wait! You need this oil, don't go!!!!"),
+    onClose: () => alert("Wait! You need this Product, don't go yet!!!!"),
   };
 
   return (
